@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 250" role="img" aria-labelledby="title desc">
-  <title id="title">RoadRunner Heating &amp; Air</title>
-  <desc id="desc">RoadRunner bird mark with RoadRunner Heating &amp; Air wordmark</desc>
-  <g transform="translate(10 20)">
-    <path d="M18 72 L250 10 L355 28 L275 63 L184 96 L98 105 Z" fill="#ed1c24" stroke="#fff" stroke-width="5" stroke-linejoin="round"/>
-    <path d="M178 95 L330 36 L490 0 L430 50 L285 93 L210 142 Z" fill="#1769c2" stroke="#fff" stroke-width="5" stroke-linejoin="round"/>
-    <path d="M225 82 L330 57 L282 105 L212 146 L168 125 Z" fill="#ed1c24"/>
-    <path d="M418 34 L478 4 L510 18 L474 32 L448 50 Z" fill="#1769c2" stroke="#fff" stroke-width="4" stroke-linejoin="round"/>
-  </g>
-  <g font-family="Arial, Helvetica, sans-serif" font-weight="900">
-    <text x="500" y="105" font-size="72" fill="#ffffff" letter-spacing="1">ROADRUNNER</text>
-    <text x="500" y="175" font-size="48" fill="#ed1c24" letter-spacing="2">HEATING</text>
-    <text x="748" y="175" font-size="48" fill="#ffffff">&amp;</text>
-    <text x="790" y="175" font-size="48" fill="#1769c2" letter-spacing="2">AIR</text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 388 98" role="img" aria-label="RoadRunner bird logo"><path d="M 30,21 67,40 93,42 93,44 78,45 96,54 167,54 219,82 264,84 266,86 264,90 282,86 298,89 288,82 236,78 204,38 98,28 92,26 79,26 53,22 Z" fill="#ed1c24" stroke="#fff" stroke-width="1.5" stroke-linejoin="round"/><path d="M 134,92 198,73 167,57 134,58 154,63 170,61 182,68 179,72 161,80 157,80 150,75 153,82 Z" fill="#1769c2" stroke="#fff" stroke-width="1.5" stroke-linejoin="round"/><path d="M 376,38 356,32 339,17 332,19 318,14 318,19 307,17 309,20 308,22 299,23 312,28 340,30 341,32 211,39 211,41 229,65 233,65 340,38 Z" fill="#1769c2" stroke="#fff" stroke-width="1.5" stroke-linejoin="round"/></svg>
